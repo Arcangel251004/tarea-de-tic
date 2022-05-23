@@ -2,7 +2,7 @@ practica de tic
 Determine la entrada, proceso, salida que permita obtener la cantidad de segundos que
     se tiene en un  determinado numero de dias
     
-    double  canSg, d, hrs;
+double  canSg, d, hrs;
 Console.Write("Ingrese numero de dias: ");
 d = double.Parse(Console.ReadLine());
 hrs = d * 24;
